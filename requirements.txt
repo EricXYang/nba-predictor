@@ -1,0 +1,9 @@
+nba_api
+pandas
+scikit-learn
+xgboost
+shap
+streamlit
+anthropic
+matplotlib
+python-dotenvs
